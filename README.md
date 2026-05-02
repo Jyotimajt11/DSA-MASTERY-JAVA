@@ -43,6 +43,7 @@ Programs completed:
 - Conditional statements
 - Time complexity analysis
 - Space complexity analysis
+-  Improved understanding of spacing logic
 
 ## Folder Structure
 
