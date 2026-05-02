@@ -23,6 +23,18 @@ Programs completed:
 - Inverted Right Angled Triangle
 - Inverted Pyramid
 
+### Day 2 - Advanced Pattern printing
+
+- Number pyramid patterns
+- Odd number repetition pattern (1, 222, 33333...)
+- Improved understanding of spacing logic
+- Hollow Pyramid
+- Floyd's Triangle
+- Palindromic Number Pattern
+- Alphabet Pyramid Pattern
+- Butterfly Pattern
+- Diamond Pattern
+
 ## Concepts Practiced
 
 - Java syntax
