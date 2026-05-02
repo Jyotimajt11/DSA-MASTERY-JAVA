@@ -50,14 +50,7 @@ Programs completed:
 DSA-MASTERY-JAVA/
 │
 ├── Patterns/
-│ ├── Square.java
-│ ├── Rhombus.java
-│ ├── Rightangledtriangle.java
-│ ├── Hollowrightangledtriangle.java
-│ ├── Hollowrect.java
-│ ├── Pyramid.java
-│ ├── Invertedrightangledtriangle.java
-│ └── Invertedpyramid.java
+│ 
 │
 ├── .gitignore
 └── README.md
