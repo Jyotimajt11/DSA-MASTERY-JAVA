@@ -43,14 +43,21 @@ Programs completed:
 - Conditional statements
 - Time complexity analysis
 - Space complexity analysis
--  Improved understanding of spacing logic
+- Improved understanding of spacing logic
+
+### Day 3 - LeetCode Problems on Arrays
+
+- Two Sum
+- Best Time to Buy and Sell Stock
+- Contains Duplicate
+- Maximum Subarray (Kadane’s Algorithm)
 
 ## Folder Structure
 
-DSA-MASTERY-JAVA/
-│
+DSA-Java/
 ├── Patterns/
-│ 
-│
-├── .gitignore
-└── README.md
+└── Arrays/
+├── TwoSum.java
+├── BestTimeToBuyAndSellStock.java
+├── ContainsDuplicate.java
+├── MaximumSubarray.java
